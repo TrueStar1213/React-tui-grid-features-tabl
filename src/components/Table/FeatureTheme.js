@@ -135,7 +135,7 @@ const summary = {
 
 const columnOptions = {
     frozenCount: 2,
-    frozenBorderWidth: 2
+    frozenBorderWidth: 2,
 }
 
 const header = {
